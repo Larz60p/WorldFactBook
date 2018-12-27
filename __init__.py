@@ -10,6 +10,7 @@
         CIA_CountryProfiles.py
         CIA_Definitions.py
         CIA_EnvironmentalAgreements.py
+        CIA_ExtractComparisons.py
         CIA_FactbookMaster.py
         CIA_Faqs.py
         CIA_GeographicNames.py
