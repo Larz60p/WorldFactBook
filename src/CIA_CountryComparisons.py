@@ -1,3 +1,4 @@
+# copyright (c) 2018  Larz60+
 import ScraperPaths
 import GetPage
 import CIA_ScanTools
