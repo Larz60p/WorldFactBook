@@ -1,3 +1,4 @@
+# copyright (c) 2018  Larz60+
 from pytube import YouTube
 import os
 
