@@ -1,7 +1,7 @@
 # Relative pathlib path list (base path is Scraper/src)
 # Includes common files.
 #
-# Author: Larz60+ (c) 2018
+# copyright (c) 2018  Larz60+
 from pathlib import Path
 import os
 import sys
