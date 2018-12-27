@@ -6,6 +6,7 @@
         ScraperPaths.py
         CIA_Abbreviations.py
         CIA_CountryComparisons.py
+        CIA_CountryDetail.py
         CIA_CountryProfiles.py
         CIA_Definitions.py
         CIA_EnvironmentalAgreements.py
