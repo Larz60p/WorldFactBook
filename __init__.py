@@ -13,13 +13,16 @@
         CIA_ExtractComparisons.py
         CIA_FactbookMaster.py
         CIA_Faqs.py
-        CIA_GeographicNames.py
+        CIA_FlagsOfTheWorld.py
+        CIA_Gallery.py
         CIA_History.py
         CIA_InternationalOrgnizationsAndGroups.py
+        CIA_RefMaps.py
         CIA_ScanTools.py
         CIA_UsersGuide.py
         CIA_WeightsAndMeasures.py
         CIA_XrefCountryCodes.py
+        CIA_XrefGeographicNames.py
         CIA_XrefHydrographicDataCodes.py
         GetPage.py
         ScraperPaths.py
