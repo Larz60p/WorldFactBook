@@ -1,0 +1,23 @@
+/CIA_WorldFactbook
+    __init__.py
+    /src
+        __init__.py
+        GetYoutubeFile.py
+        ScraperPaths.py
+        CIA_Abbreviations.py
+        CIA_CountryComparisons.py
+        CIA_CountryProfiles.py
+        CIA_Definitions.py
+        CIA_EnvironmentalAgreements.py
+        CIA_FactbookMaster.py
+        CIA_Faqs.py
+        CIA_GeographicNames.py
+        CIA_History.py
+        CIA_InternationalOrgnizationsAndGroups.py
+        CIA_ScanTools.py
+        CIA_UsersGuide.py
+        CIA_WeightsAndMeasures.py
+        CIA_XrefCountryCodes.py
+        CIA_XrefHydrographicDataCodes.py
+        GetPage.py
+        ScraperPaths.py
